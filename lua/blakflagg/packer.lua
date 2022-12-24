@@ -37,7 +37,9 @@ return require('packer').startup(function(use)
 	  }
   }
   use "akinsho/toggleterm.nvim"
-  use {
+use 'nvim-lualine/lualine.nvim'
+use 'lukas-reineke/indent-blankline.nvim'
+use {
     'numToStr/Comment.nvim',
     config = function()
         require('Comment').setup()
