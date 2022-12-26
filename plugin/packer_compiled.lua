@@ -120,6 +120,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["gitsigns.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\gitsigns.nvim",
+    url = "https://github.com/lewis6991/gitsigns.nvim"
+  },
   harpoon = {
     loaded = true,
     path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\harpoon",
@@ -184,6 +189,16 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
+  },
+  ["vim-fugitive"] = {
+    loaded = true,
+    path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-fugitive",
+    url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-rhubarb"] = {
+    loaded = true,
+    path = "C:\\Users\\dduff\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-rhubarb",
+    url = "https://github.com/tpope/vim-rhubarb"
   }
 }
 

@@ -45,5 +45,10 @@ use {
         require('Comment').setup()
     end
 }
+  -- Git related plugins
+  use 'tpope/vim-fugitive'
+  use 'tpope/vim-rhubarb'
+  use 'lewis6991/gitsigns.nvim'
+
 end)
 
