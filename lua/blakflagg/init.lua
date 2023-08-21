@@ -1,4 +1,4 @@
-require("blakflagg.remap")
 require("blakflagg.set")
+require("blakflagg.remap")
 
 
